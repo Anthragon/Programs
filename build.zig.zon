@@ -1,6 +1,7 @@
 .{
     .name = .programs,
     .version = "0.0.0",
+    .fingerprint = 0xf149654581b70fe7,
 
     .dependencies = .{},
 
